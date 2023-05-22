@@ -1,4 +1,4 @@
-package pilas;
+package Vista;
 
 import java.util.Scanner;
 import java.util.Stack;
